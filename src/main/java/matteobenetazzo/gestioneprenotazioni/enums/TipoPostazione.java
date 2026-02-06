@@ -1,4 +1,8 @@
 package matteobenetazzo.gestioneprenotazioni.enums;
 
-public class TipoPostazione {
+public enum TipoPostazione {
+    PRIVATO,
+    OPENSPACE,
+    SALA_RIUNIONI
 }
+
